@@ -1,48 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Automação de Login - Alura</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #fdfdfd;
-      color: #333;
-      line-height: 1.6;
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-    }
-    h1, h2 {
-      color: #005f73;
-    }
-    code {
-      background-color: #f4f4f4;
-      padding: 2px 6px;
-      border-radius: 4px;
-      font-family: monospace;
-    }
-    pre {
-      background-color: #f4f4f4;
-      padding: 1rem;
-      overflow-x: auto;
-      border-left: 4px solid #005f73;
-    }
-    a {
-      color: #0077b6;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      padding-left: 1.5rem;
-    }
-  </style>
-</head>
-<body>
-
-  <h1>🧠 Automação de Login - Plataforma Alura</h1>
+<h1>🧠 Automação de Login - Plataforma Alura</h1>
 
   <p>Este projeto tem como objetivo demonstrar o uso de <strong>automação com Selenium</strong> integrada com <strong>interfaces gráficas em Python</strong>, utilizando a biblioteca <code>customtkinter</code>. A aplicação coleta as credenciais do usuário por meio de uma interface gráfica e realiza o login automaticamente no portal da <a href="https://cursos.alura.com.br" target="_blank">Alura</a>.</p>
 
