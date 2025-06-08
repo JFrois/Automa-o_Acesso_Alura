@@ -21,7 +21,7 @@ def login_alura():
 
     # Acessa o site da Alura
     driver.get("https://cursos.alura.com.br/loginForm?logout")
-    time.sleep(5)
+    time.sleep(2)
 
     # Clicar e escrever e-mail
     driver.find_element(By.ID, "login-email").click()
