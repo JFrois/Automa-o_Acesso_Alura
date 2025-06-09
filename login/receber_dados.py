@@ -6,6 +6,7 @@ from login.login_alura import login_alura
 user_login = ""
 pwd_login = ""
 
+
 # Funcionalidades
 def validar_login():
     global user_login, pwd_login
@@ -53,6 +54,7 @@ app_btn.pack(pady=10)
 # Label de retorno
 return_user = ctk.CTkLabel(app, text="")
 return_user.pack(pady=10)
+
 
 # Iniciar app
 def receber_dados():
